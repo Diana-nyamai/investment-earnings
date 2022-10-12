@@ -1,1 +1,1 @@
-# investment-earnings
+# Investment Earnings
